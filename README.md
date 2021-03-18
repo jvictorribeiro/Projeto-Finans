@@ -8,14 +8,14 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#tecnologias">Tecnologias</a> 
 </p>
 
 <h4 align="center"> 
 	 Status: Concluído
 </h4>
 
-## **Sobre**
+## Sobre
 
 Página web criada como um projeto para o meu portfolio e para colocar em prática minhas habilidades de front-end
 
@@ -25,6 +25,8 @@ Página web criada como um projeto para o meu portfolio e para colocar em práti
 - CSS
 - [Bootstrap4] (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 - [FontAwesome] (https://fontawesome.com/)
+
+<br><br>
 
 ![image](https://user-images.githubusercontent.com/44476242/111631339-09aac300-87d2-11eb-9969-3e07becd80a6.png)
 
