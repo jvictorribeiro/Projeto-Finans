@@ -12,14 +12,14 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Finans 🚀 Concluído...  🚧
+	 Status: Concluído
 </h4>
 
-## :sobre: **Sobre**
+## **Sobre**
 
 Página web criada como um projeto para o meu portfolio e para colocar em prática minhas habilidades de front-end
 
-## :tecnologias: **Tecnologias**
+## **Tecnologias**
 
 - HTML5
 - CSS
