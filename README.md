@@ -1,5 +1,5 @@
 # Projeto Finans
-Um site sobre uma aplicação de finanças construído utilizado HTML5, CSS3, Bootstrap 4 e ícones do FontAwesome
+## Um site sobre uma aplicação de finanças construído utilizado HTML5, CSS3, Bootstrap 4 e ícones do FontAwesome
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
