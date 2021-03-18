@@ -23,8 +23,8 @@ Página web criada como um projeto para o meu portfolio e para colocar em práti
 
 - HTML5
 - CSS
-- [Bootstrap4] (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-- [FontAwesome] (https://fontawesome.com/)
+- [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- [FontAwesome](https://fontawesome.com/)
 
 <br><br>
 
