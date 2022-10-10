@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<p align="center"> Um site sobre uma aplicação de finanças construído utilizado HTML5, CSS3, Bootstrap 4 e ícones do FontAwesome <p>
+<p align="center"> Uma landing page sobre uma aplicação de finanças construída utilizado HTML5, CSS3, Bootstrap 4 e ícones do FontAwesome <p>
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
